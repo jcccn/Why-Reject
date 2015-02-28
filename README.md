@@ -7,14 +7,7 @@
 
 
 ## 开心一刻
-[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_1.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_1.jpg)
-[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_2.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_2.jpg)
-[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_3.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_3.jpg)
-[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_4.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_4.jpg)
-[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_5.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_5.jpg)
-[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_6.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_6.jpg)
-[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_7.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_7.jpg)
-[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_8.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_8.jpg)
+[![](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_0.jpg)](https://raw.githubusercontent.com/jcccn/Why-Reject/master/img/funny/funny_reject_0.jpg)
 
 ## 简而言之
 - 截图中出现了Android
