@@ -4,6 +4,7 @@
 		——苹果AppStore被拒理由大全
 	</span>
 </p>
+<!-- 上面的内容在生成页面中删除 -->
 
 
 ## 开心一刻
@@ -90,3 +91,7 @@
 - App中有IAP内购，但是没有恢复内购的按钮
 - 强制玩家给App评5星好评
 - 没有兼容iOS
+
+## 说明
+- 欢迎 [Fork本项目](https://github.com/jcccn/Why-Reject/fork) 来一起完善
+- 部分内容整理自[CocoaChina](http://www.cocoachina.com/appstore/20141107/10165.html)网站
