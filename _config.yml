@@ -1,0 +1,8 @@
+title: 为什么你要拒绝我
+description: 苹果AppStore被拒理由大全
+google_analytics: UA-23184825-5
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
